@@ -1,0 +1,815 @@
+C:\Users\Aleksandra\Desktop\work\work\bin\work.dll.config
+C:\Users\Aleksandra\Desktop\work\work\bin\work.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\work.pdb
+C:\Users\Aleksandra\Desktop\work\work\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\work\work\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.dll
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.pdb
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.Migrations.InitialModel.resources
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.csproj.GenerateResource.Cache
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.Migrations.CreatePictureTable.resources
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.Migrations.OverrideConventionsForPicturesAndCategories.resources
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.Migrations.PopulateCategoriesTable.resources
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.Migrations.AddForeignKey.resources
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.Migrations.AddNameToApplicationUser.resources
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.Migrations.AddAttendance.resources
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Net.Http.Formatting.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Http.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Http.WebHost.dll
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Net.Http.Formatting.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Http.xml
+C:\Users\Aleksandra\Desktop\work\work\bin\System.Web.Http.WebHost.xml
+C:\Users\Aleksandra\Desktop\work\work\obj\Debug\work.Migrations.FirstMigration.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.InitialModel.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.CreatePictureTable.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.OverrideConventionsForPicturesAndCategories.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.PopulateCategoriesTable.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.AddForeignKey.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.AddNameToApplicationUser.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.AddAttendance.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.FirstMigration.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\work\work\obj\Debug\work.dll
+C:\Users\user\Desktop\work\work\bin\work.dll.config
+C:\Users\user\Desktop\work\work\bin\work.dll
+C:\Users\user\Desktop\work\work\bin\work.pdb
+C:\Users\user\Desktop\work\work\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\work\work\bin\EntityFramework.dll
+C:\Users\user\Desktop\work\work\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\work\work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\work\work\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\work\work\bin\Owin.dll
+C:\Users\user\Desktop\work\work\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\work\work\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\work\work\bin\System.Web.Http.dll
+C:\Users\user\Desktop\work\work\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\work\work\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\work\work\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\work\work\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\work\work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\work\work\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\work\work\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\work\work\bin\WebGrease.dll
+C:\Users\user\Desktop\work\work\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\work\work\bin\System.Web.Http.xml
+C:\Users\user\Desktop\work\work\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\work\work\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\work\work\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\work\work\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\work\work\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\work\work\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\work\work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\work\work\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\work\work\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\work\work\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\work\work\bin\EntityFramework.xml
+C:\Users\user\Desktop\work\work\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\work\work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\work\work\obj\Debug\work.pdb
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.AddFollowing.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.AddIsCanceledToPicture.resources
+C:\Users\user\Desktop\work\work\obj\Debug\work.Migrations.AddNotification.resources
+C:\Users\user\Desktop\work\work\bin\AutoMapper.dll
+C:\Users\user\Desktop\work\work\bin\AutoMapper.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\work.dll.config
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\work.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\work.pdb
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Antlr3.Runtime.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\AutoMapper.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\EntityFramework.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\EntityFramework.SqlServer.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Newtonsoft.Json.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Owin.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Net.Http.Formatting.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Helpers.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Http.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Http.WebHost.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Mvc.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Optimization.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Razor.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.WebPages.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\WebGrease.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\AutoMapper.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Net.Http.Formatting.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Http.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Http.WebHost.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Helpers.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Mvc.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Optimization.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.Razor.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.WebPages.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Antlr3.Runtime.pdb
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Newtonsoft.Json.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\EntityFramework.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\EntityFramework.SqlServer.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.InitialModel.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.CreatePictureTable.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.OverrideConventionsForPicturesAndCategories.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.PopulateCategoriesTable.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.AddForeignKey.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.AddNameToApplicationUser.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.AddAttendance.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.FirstMigration.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.AddFollowing.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.AddIsCanceledToPicture.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.AddNotification.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.csproj.GenerateResource.Cache
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.pdb
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.PictureContentAdd.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.AtendeeIdTypeChange.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.AttenderAddedToNotification.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.NotificationChangesFix.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.NewNotificationAdded.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.FollowingFix.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.AddMissingForeignKey.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.ForeginKeyFix.resources
+C:\Users\Michał\Desktop\ADDONKI\work (1)\work\work\obj\Debug\work.Migrations.NotificationChange.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\work.dll.config
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\work.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\work.pdb
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\AutoMapper.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\EntityFramework.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Owin.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Http.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\WebGrease.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\AutoMapper.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\EntityFramework.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Http.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\pl\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.InitialModel.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.CreatePictureTable.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.OverrideConventionsForPicturesAndCategories.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.PopulateCategoriesTable.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddForeignKey.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddNameToApplicationUser.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddAttendance.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.FirstMigration.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddFollowing.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddIsCanceledToPicture.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddNotification.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.PictureContentAdd.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AtendeeIdTypeChange.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AttenderAddedToNotification.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.NotificationChangesFix.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.NewNotificationAdded.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.FollowingFix.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddMissingForeignKey.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.ForeginKeyFix.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.Migrations.NotificationChange.resources
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.dll
+C:\Users\user\Desktop\work_with_date_fixes\work\work\obj\Debug\work.pdb
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\work.dll.config
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\work.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\work.pdb
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\AutoMapper.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\EntityFramework.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Owin.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\WebGrease.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\AutoMapper.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\EntityFramework.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\pl\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.InitialModel.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.CreatePictureTable.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.OverrideConventionsForPicturesAndCategories.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.PopulateCategoriesTable.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddForeignKey.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddNameToApplicationUser.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddAttendance.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.FirstMigration.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddFollowing.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddIsCanceledToPicture.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddNotification.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.PictureContentAdd.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AtendeeIdTypeChange.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AttenderAddedToNotification.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.NotificationChangesFix.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.NewNotificationAdded.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.FollowingFix.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.AddMissingForeignKey.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.ForeginKeyFix.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.Migrations.NotificationChange.resources
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\obj\Debug\work.pdb
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Facebook.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Facebook.xml
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\user\Desktop\Praca\work_with_date_fixes\work\work\bin\Rotativa.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\work.dll.config
+C:\Users\user\Desktop\Nowy folder\work\bin\work.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\work.pdb
+C:\Users\user\Desktop\Nowy folder\work\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\AutoMapper.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\EntityFramework.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Facebook.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Owin.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Rotativa.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\WebGrease.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Nowy folder\work\bin\AutoMapper.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\EntityFramework.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Facebook.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Nowy folder\work\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\pl\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Nowy folder\work\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Nowy folder\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Nowy folder\work\obj\Debug\work.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nowy folder\work\obj\Debug\work.dll
+C:\Users\user\Desktop\Nowy folder\work\obj\Debug\work.pdb
+C:\Users\user\Desktop\Nowy folder\work\obj\Debug\work.Migrations.InitialCreate.resources
+C:\Users\user\Desktop\Nowy folder\work\obj\Debug\work.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Nowyfolder\work\bin\work.dll.config
+C:\Users\user\Desktop\Nowyfolder\work\bin\work.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\work.pdb
+C:\Users\user\Desktop\Nowyfolder\work\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\AutoMapper.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\EntityFramework.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Facebook.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Owin.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Rotativa.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\WebGrease.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Nowyfolder\work\bin\AutoMapper.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\EntityFramework.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Facebook.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Nowyfolder\work\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\pl\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Nowyfolder\work\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Nowyfolder\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Nowyfolder\work\obj\Debug\work.Migrations.InitialCreate.resources
+C:\Users\user\Desktop\Nowyfolder\work\obj\Debug\work.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Nowyfolder\work\obj\Debug\work.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nowyfolder\work\obj\Debug\work.dll
+C:\Users\user\Desktop\Nowyfolder\work\obj\Debug\work.pdb
+C:\Users\user\Desktop\Nowyfolder\work\obj\Debug\work.Migrations.test.resources
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\work.dll.config
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\work.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\work.pdb
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\AutoMapper.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\EntityFramework.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Facebook.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Owin.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Rotativa.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\WebGrease.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\AutoMapper.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\EntityFramework.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Facebook.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\pl\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Praca\Nowyfolder\work\obj\Debug\work.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Praca\Nowyfolder\work\obj\Debug\work.dll
+C:\Users\user\Desktop\Praca\Nowyfolder\work\obj\Debug\work.pdb
+C:\Users\user\Desktop\Praca\Nowyfolder\work\obj\Debug\work.Migrations.InitialCreate.resources
+C:\Users\user\Desktop\Praca\Nowyfolder\work\obj\Debug\work.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\work.dll.config
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\work.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\work.pdb
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Antlr3.Runtime.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\AutoMapper.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\EntityFramework.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\EntityFramework.SqlServer.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Facebook.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Newtonsoft.Json.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Owin.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Rotativa.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Net.Http.Formatting.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Helpers.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Http.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Http.WebHost.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Mvc.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Optimization.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Razor.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.WebPages.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\WebGrease.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Antlr3.Runtime.pdb
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\AutoMapper.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\EntityFramework.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\EntityFramework.SqlServer.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Facebook.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Newtonsoft.Json.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Net.Http.Formatting.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Helpers.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Http.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Http.WebHost.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Mvc.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Razor.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.WebPages.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\System.Web.Optimization.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\obj\Debug\work.csprojAssemblyReference.cache
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\obj\Debug\work.Migrations.InitialCreate.resources
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\obj\Debug\work.csproj.GenerateResource.cache
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\obj\Debug\work.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\obj\Debug\work.csproj.CopyComplete
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\obj\Debug\work.dll
+C:\Users\Mateusz\Pictures\Nowy folder (2)\Nowyfolder\work\obj\Debug\work.pdb
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\work.dll.config
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\work.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\work.pdb
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\AutoMapper.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\EntityFramework.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Facebook.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Owin.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Rotativa.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\WebGrease.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\AutoMapper.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\EntityFramework.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Facebook.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\pl\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\obj\Debug\work.Migrations.InitialCreate.resources
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\obj\Debug\work.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\obj\Debug\work.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\obj\Debug\work.dll
+C:\Users\user\Desktop\Nowyfolder\Nowyfolder\work\obj\Debug\work.pdb
